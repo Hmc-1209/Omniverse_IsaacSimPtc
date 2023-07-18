@@ -1,0 +1,6 @@
+~/.local/share/ov/pkg/isaac_sim-2022.2.1/python.sh ~/Desktop/IsaacSimPtc/moving_franka/moving_franka.py \
+--enable omni.services.core \
+--enable omni.services.transport.server.http
+
+
+--enable omni.services.client \

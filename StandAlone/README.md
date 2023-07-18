@@ -10,3 +10,7 @@ This is a standalone application for Omniverse Isaac Sim
 cd to Isaac Sim folder (isaac_sim-2022.2.1) and type the following command:  
 "./python.sh ./extension_examples/user_examples/my_application.py", or on windows:  
 "./python.bat ./extension_examples/user_examples/my_application.py"
+
+start_up_command - ~/.local/share/ov/pkg/isaac_sim-2022.2.1/python.sh PATH
+
+ex. ~/.local/share/ov/pkg/isaac_sim-2022.2.1/python.sh ~/Desktop/IsaacSimPtc/hello_world/hello_world.py
